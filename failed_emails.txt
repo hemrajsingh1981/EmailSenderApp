@@ -1,0 +1,25 @@
+2/3/2025 6:39:58 PM - user2@example.com - The operation has timed out.
+2/3/2025 6:39:58 PM - user1@example.com - The operation has timed out.
+2/3/2025 6:49:34 PM - hemrajsingh1981@gmail.com - The operation has timed out.
+2/3/2025 6:57:07 PM: Failed to send email to hemrajsingh1981@gmail.com. Error: The operation has timed out.
+2/3/2025 6:57:07 PM: Failed to send email to hsingh@autoeveramerica.com.com. Error: The operation has timed out.
+2/3/2025 7:09:59 PM: Failed to send email to hemrajsingh1981@gmail.com. Error: User not local; please try a different path. The server response was: 5.5.1 Authentication is required to send mail
+2/3/2025 7:09:59 PM: Failed to send email to hsingh@autoeveramerica.com.com. Error: User not local; please try a different path. The server response was: 5.5.1 Authentication is required to send mail
+2/3/2025 7:13:57 PM: Failed to send email to hemrajsingh1981@gmail.com. Error: Mailbox unavailable. The server response was: 5.7.1 Sending from domain mailtrap.io is not allowed
+2/3/2025 7:13:57 PM: Failed to send email to hsingh@autoeveramerica.com.com. Error: Mailbox unavailable. The server response was: 5.7.1 Sending from domain mailtrap.io is not allowed
+2/3/2025 7:28:00 PM: Failed to send email to hsingh@autoeveramerica.com.com. Error: Failure sending mail.
+2/3/2025 7:28:00 PM: Failed to send email to hemrajsingh1981@gmail.com. Error: Failure sending mail.
+2/3/2025 7:32:42 PM: Failed to send email to hsingh@autoeveramerica.com.com. Error: Failure sending mail.
+2/3/2025 7:32:42 PM: Failed to send email to hemrajsingh1981@gmail.com. Error: Failure sending mail.
+2/3/2025 7:47:39 PM: Failed to send email to hsingh@autoeveramerica.com.com. Error: Failure sending mail.
+2/3/2025 7:47:39 PM: Failed to send email to hemrajsingh1981@gmail.com. Error: Failure sending mail.
+2/3/2025 8:13:48 PM: Failed to send email to hemrajsingh1981@gmail.com. Error: Failure sending mail.
+2/3/2025 8:13:48 PM: Failed to send email to hsingh@autoeveramerica.com.com. Error: Failure sending mail.
+2/3/2025 9:15:18 PM: Failed to send email to hemrajsingh1981@gmail.com. Error: Could not find file 'C:\Users\hemra\EmailSenderApp\image2.jpg'.
+2/3/2025 9:15:18 PM: Failed to send email to hsingh@haeaus.com. Error: Could not find file 'C:\Users\hemra\EmailSenderApp\image2.jpg'.
+2/3/2025 9:16:11 PM: Failed to send email to hemrajsingh1981@gmail.com. Error: Could not find file 'C:\Users\hemra\EmailSenderApp\image3.gif'.
+2/3/2025 9:16:11 PM: Failed to send email to hsingh@haeaus.com. Error: Could not find file 'C:\Users\hemra\EmailSenderApp\image3.gif'.
+2/3/2025 9:25:00 PM: Failed to send email to hemrajsingh1981@gmail.com. Error: Failure sending mail.
+2/3/2025 9:25:00 PM: Failed to send email to hsingh@haeaus.com. Error: Failure sending mail.
+2/3/2025 9:30:30 PM: Failed to send email to hemrajsingh1981@gmail.com. Error: Failure sending mail.
+2/3/2025 9:30:31 PM: Failed to send email to hsingh@haeaus.com. Error: Failure sending mail.
