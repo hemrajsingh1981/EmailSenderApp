@@ -1,0 +1,18 @@
+{
+      "SmtpServer": "smtp.mailgun.org",
+      "SmtpPort": 587,
+      "SmtpUsername": "postmaster@kdp.kdealer.com",
+      "SmtpPassword": "",
+      "SenderEmail": "postmaster@kdp.kdealer.com",
+      "Subject": "Test email using console app",
+      "EmbeddedImages": ["image1.png", "image2.jpg","image3.gif"],
+      "HtmlTemplate": "email_body.html",
+      "BatchSize": 10,
+      "RetryEnabled": "yes",
+      "RetryCount": 3,
+      "NotificationEmail": "hemrajsingh1981@gmail.com.com",
+      "ScheduleTime": "18:48",
+      "RecipientsFile": "recipients.csv"
+  }
+ 
+  
